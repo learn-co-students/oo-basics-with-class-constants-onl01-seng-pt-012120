@@ -11,7 +11,7 @@ class Shoe
   end
   
   
-  BRANDS = ["Uggs", "Rainbow"]
+  BRANDS = [ ]
 
 def brand=(brand)     
   @brand = brand
